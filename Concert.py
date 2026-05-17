@@ -7,24 +7,24 @@ class Concert:
       # Stack
       self.attendees = []
    
-   def pushAttendee():
+   def pushAttendee(self):
       pass
    
-   def popAttendee():
+   def popAttendee(self):
       pass
    
-   def peekLastAttendee():
+   def peekLastAttendee(self):
       pass
    
-   def getAttendanceDuration():
+   def getAttendanceDuration(self):
       pass
    
-   def detectRuleViolations():
+   def detectRuleViolations(self):
       pass
    
-   def displayAttendees():
+   def displayAttendees(self):
       pass
    
-   def generateAttendanceRep():
+   def generateAttendanceRep(self):
       pass
    
